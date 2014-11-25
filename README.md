@@ -2,3 +2,4 @@ pyopencv
 ========
 
 pyopencv
+face-detection
